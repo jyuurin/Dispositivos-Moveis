@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula04</string>
+    <string name="nome">Name</string>
+    <string name="telefone">Phone</string>
+    <string name="email">E-mail</string>
+    <string name="prefiro_telefone">Prefer Phone</string>
+    <string name="prefiro_email">Prefer E-mail</string>
+    <string name="msg_erro">You need to fill all the fields</string>
+
+</resources>

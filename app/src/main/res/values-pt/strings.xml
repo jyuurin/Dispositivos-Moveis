@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aula04</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="prefiro_telefone">Prefiro Telefone</string>
+    <string name="prefiro_email">Prefiro  Email</string>
+    <string name="msg_erro">Você precisa preencher todos os campos</string>
+</resources>
